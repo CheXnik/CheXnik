@@ -3,7 +3,6 @@
 
 <p align="center">
     <img alt="" style="border-radius: 20px; border: 2px gold solid" src="https://streak-stats.demolab.com?user=CheXnik&theme=gruvbox&hide_border=true&border_radius=20">
-    <img alt="" src="https://metrics.lecoq.io/CheXnik">
 </p>
 
 <p align="center">
