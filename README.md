@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm CheXnik</h1>
 
-<p align="center>
+<code align="center>
     A passionate backend developer from Ukraine🇺🇦 :)
-</p>
+</code>
 
 
 <p align="center">
