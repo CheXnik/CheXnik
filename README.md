@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm CheXnik</h1>
 <h4 align="center">A passionate backend developer from Ukraine🇺🇦</h3>
 
-<img align="center" alt="" src="https://metrics.lecoq.io/CheXnik"></img>
-
+<p align="center">
+  <img alt="" style="border-radius: 20px; border: 2px gold solid" src="https://streak-stats.demolab.com?user=CheXnik&theme=gruvbox&hide_border=true&border_radius=20">
+  <img alt="" src="https://metrics.lecoq.io/CheXnik"></img>
+</p>
